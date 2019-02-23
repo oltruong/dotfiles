@@ -1,6 +1,7 @@
 ## intelliJ
 .idea/
 *.iml
+**/out/
 
 ## eclipse
 .settings/
