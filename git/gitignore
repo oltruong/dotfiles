@@ -1,13 +1,10 @@
+**/secret.txt
+
 ## intelliJ
+.idea
 .idea/
 *.iml
 **/out/
-
-## eclipse
-.settings/
-.classpath
-.project
-bin/
 
 ## maven
 target/
@@ -24,3 +21,11 @@ Thumbs.db
 ## miscellaneous
 **/*.log
 
+## python
+venv
+__pycache__
+*.pyc
+
+## aws
+packaged.yaml
+.aws-sam
