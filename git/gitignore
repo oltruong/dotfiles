@@ -1,4 +1,6 @@
 **/secret.txt
+**/secret.sh
+**/top_secret.py
 
 ## intelliJ
 .idea
@@ -26,6 +28,21 @@ venv
 __pycache__
 *.pyc
 
+## npm
+node_modules
+
 ## aws
 packaged.yaml
 .aws-sam
+
+## aws cdk
+
+cdk.out
+cdk.context.json
+
+
+# SBT
+.bsp/sbt.json
+
+
+out.txt
