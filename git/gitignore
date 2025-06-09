@@ -45,4 +45,8 @@ cdk.context.json
 .bsp/sbt.json
 
 
+# Sonar
+.scannerwork
+
+
 out.txt
